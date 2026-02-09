@@ -15,7 +15,7 @@ This is a simple beginner project useful for:
 ## 🎥 Working Video
 
 👉 **Watch project demo here:**
-[https://github.com/Ayancoder1/IR-Sensor-Object-Detection-with-Arduino/blob/main/video6073564981859720307.mp4](https://github.com/Ayancoder1/IR-Sensor-Object-Detection-with-Arduino/blob/main/video6073564981859720307.mp4)
+https://github.com/Ayancoder1/IR-Sensor-Object-Detection-with-Arduino/blob/main/Two%20IR%20Sensor%20Project%20Working%20Video.mp4
 
 ---
 
